@@ -1,0 +1,15 @@
+102,9,16,6,2023,05:50,Dubai,Economy:350
+103,3,17,6,2023,00:00,London,Economy:700
+104,4,18,6,2023,00:00,New York,Economy:600
+105,1,19,6,2023,00:00,Tokyo,Economy:700
+106,5,3,5,2025,00:00,London,Economy :600,Business:1000
+107,2,10,9,2023,07:30,Paris,Economy:800,Business :1500
+108,69,1073741920,32763,1284176852,00:00,,Economy:5000,Economy:5000
+102,9,16,6,2023,05:50,Dubai,Economy:350
+103,3,17,6,2023,00:00,London,Economy:700
+104,4,18,6,2023,00:00,New York,Economy:600
+105,1,19,6,2023,00:00,Tokyo,Economy:700
+106,5,3,5,2025,00:00,London,Economy :600,Business:1000
+107,2,10,9,2023,07:30,Paris,Economy:800,Business :1500
+108,69,1073741920,32763,1284176852,00:00,,Economy:5000,Economy:5000
+109,6,12,5,2007,25:00,Karachi,Business:300
